@@ -1,0 +1,31 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Kaggle API credentials
+.kaggle/
+kaggle.json
+
+# Data files
+dataset/
+*.csv
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Mac OS
+.DS_Store
+
+# R temporary files
+*.Rout
+*.rds
+
+# HTML output
+*.html
+
+# Environment files
+.env
