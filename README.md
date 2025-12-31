@@ -130,13 +130,6 @@ The analysis includes:
 
 This project is available under the MIT License.
 
-## 🤝 Contact
-
-**Akshat Kalra**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ---
 
 *This project demonstrates proficiency in statistical modeling, R programming, data analysis, and business analytics—skills applicable to data science and analytics roles.*
